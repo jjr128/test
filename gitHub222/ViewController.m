@@ -14,6 +14,10 @@
 
 @implementation ViewController
 
+- (void)hi{
+
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"132");
